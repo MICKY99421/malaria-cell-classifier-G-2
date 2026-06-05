@@ -145,5 +145,18 @@ This tool is for decision support only and should not replace the judgement of a
 ---
 
 ## Author
+Michael Shebrah
 
-Your Name
+Your Name<img width="1916" height="952" alt="Screenshot 2026-06-05 234640" src="https://github.com/user-attachments/assets/3bed5609-7dd8-476a-9d48-29ac3f8872d7" />
+
+
+
+
+
+
+<img width="526" height="525" alt="download" src="https://github.com/user-attachments/assets/b88b833b-8801-4bbf-a45f-bf209d386abe" />
+<img width="576" height="432" alt="download (1)" src="https://github.com/user-attachments/assets/dd4f9d1f-1c01-4668-b362-eb72ce7e3b47" />
+
+Gradiohttps://7179c0432b3e3c6d20.gradio.live
+Running on public URL: https://7179c0432b3e3c6d20.gradio.live
+
