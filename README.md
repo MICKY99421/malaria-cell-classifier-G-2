@@ -11,7 +11,7 @@ This project uses Deep Learning and Transfer Learning to classify microscopic bl
 
 The goal is to support laboratory technicians by automatically flagging suspicious cells for further review.
 
----
+
 
 ## Problem Statement
 
@@ -25,7 +25,7 @@ This process is:
 
 This project explores the use of Convolutional Neural Networks (CNNs) to automate classification of individual blood cell images.
 
----
+
 
 ## Dataset
 
@@ -42,19 +42,18 @@ Dataset source:
 
 https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
 
----
+
 
 ## Models Used
 
-### ResNet18
+# ResNet18
 
 Transfer learning using pretrained ImageNet weights.
 
-### MobileNetV2
+# MobileNetV2
 
 Lightweight architecture optimized for faster inference.
 
----
 
 ## Preprocessing
 
@@ -64,8 +63,6 @@ Lightweight architecture optimized for faster inference.
   - Horizontal flips
   - Rotations
   - Brightness adjustments
-
----
 
 ## Evaluation Metrics
 
@@ -77,7 +74,6 @@ Lightweight architecture optimized for faster inference.
 
 Special attention was given to Recall because false negatives are particularly dangerous in malaria screening.
 
----
 
 ## Explainability
 
@@ -127,7 +123,7 @@ python gradio_app.py
 
 Open the generated local URL in your browser.
 
----
+Running on public URL: https://7179c0432b3e3c6d20.gradio.live
 
 ## Disclaimer
 
@@ -145,18 +141,11 @@ This tool is for decision support only and should not replace the judgement of a
 ---
 
 ## Author
-Michael Shebrah
+Michael Shebrah Group 2
 
 Your Name<img width="1916" height="952" alt="Screenshot 2026-06-05 234640" src="https://github.com/user-attachments/assets/3bed5609-7dd8-476a-9d48-29ac3f8872d7" />
-
-
-
-
-
 
 <img width="526" height="525" alt="download" src="https://github.com/user-attachments/assets/b88b833b-8801-4bbf-a45f-bf209d386abe" />
 <img width="576" height="432" alt="download (1)" src="https://github.com/user-attachments/assets/dd4f9d1f-1c01-4668-b362-eb72ce7e3b47" />
 
-Gradiohttps://7179c0432b3e3c6d20.gradio.live
-Running on public URL: https://7179c0432b3e3c6d20.gradio.live
 
