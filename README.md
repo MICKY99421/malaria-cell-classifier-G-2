@@ -96,7 +96,7 @@ A Gradio web application allows users to:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/malaria-cell-classifier.git
+https://github.com/MICKY99421/malaria-cell-classifier-G-2
 ```
 
 Navigate to the project:
@@ -148,4 +148,4 @@ Your Name<img width="1916" height="952" alt="Screenshot 2026-06-05 234640" src="
 <img width="526" height="525" alt="download" src="https://github.com/user-attachments/assets/b88b833b-8801-4bbf-a45f-bf209d386abe" />
 <img width="576" height="432" alt="download (1)" src="https://github.com/user-attachments/assets/dd4f9d1f-1c01-4668-b362-eb72ce7e3b47" />
 
-
+R
