@@ -141,7 +141,8 @@ This tool is for decision support only and should not replace the judgement of a
 ---
 
 ## Author
-Michael Shebrah Group 2
+Michael Shebrah Group 2[Malaria Cell Classifier cmp.ipynb](https://github.com/user-attachments/files/28814743/Malaria.Cell.Classifier.cmp.ipynb)
+
 
 Your Name<img width="1916" height="952" alt="Screenshot 2026-06-05 234640" src="https://github.com/user-attachments/assets/3bed5609-7dd8-476a-9d48-29ac3f8872d7" />
 
